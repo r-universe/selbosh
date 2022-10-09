@@ -2,9 +2,5 @@
   {
     "package": "doseminer",
     "oncran": true
-  },
-  {
-    "package": "ggChernoff",
-    "oncran": true
   }
 ]
