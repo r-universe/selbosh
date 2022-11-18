@@ -8,3 +8,8 @@
 	url = https://github.com/selbosh/doseminer
 	shallow = true
 	registered = true
+[submodule "ggChernoff"]
+	path = ggChernoff
+	url = https://github.com/selbosh/ggchernoff
+	shallow = true
+	registered = true
