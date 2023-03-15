@@ -13,3 +13,8 @@
 	url = https://github.com/selbosh/ggchernoff
 	shallow = true
 	registered = true
+[submodule "index0"]
+	path = index0
+	url = https://github.com/selbosh/index0
+	shallow = true
+	registered = true

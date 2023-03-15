@@ -4,7 +4,19 @@
     "oncran": true
   },
   {
+    "package": "doseminer",
+    "oncran": true
+  },
+  {
     "package": "ggChernoff",
+    "oncran": true
+  },
+  {
+    "package": "index0",
+    "oncran": true
+  },
+  {
+    "package": "index0",
     "oncran": true
   }
 ]
